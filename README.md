@@ -10,3 +10,7 @@ A CRUD application builds with node js and express as backend and mongoDB for da
 
 # FOR DATABASE: 
 MONGODB => it’s a nosql database which uses collection and documents instead of tables, rows and columns.
+
+# RUN THE APP
+•	node app.js
+•	open your browser & goto localhost:3000
